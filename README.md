@@ -1,2 +1,2 @@
-# jsf-bootsfaces
-Práctica de JSF con BootsFaces.
+# maven-war
+Ejemplo de proyecto WAR.
